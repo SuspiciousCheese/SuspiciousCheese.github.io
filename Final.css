@@ -12,7 +12,8 @@
     background: url(abxymod.png);
     width: 48px;
     height: 48px;
-}
+} 
+
 .xbox .button.pressed {
     background-position-y: -48px;
     margin-top: 5px;
